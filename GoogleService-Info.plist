@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>API_KEY</key>
+	<string>AIzaSyBNU1x8bPi_Cgyi2lv8WF58r62M4-1q_yo</string>
+	<key>GCM_SENDER_ID</key>
+	<string>1092234552065</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>viswaindustries.Healthify</string>
+	<key>PROJECT_ID</key>
+	<string>healthify-276ac</string>
+	<key>STORAGE_BUCKET</key>
+	<string>healthify-276ac.firebasestorage.app</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:1092234552065:ios:735294ae85ef62db263100</string>
+</dict>
+</plist>
